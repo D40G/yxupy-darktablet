@@ -3,6 +3,7 @@
 I was bored and just made this dark web inspired tablet thingy idk how to call it.. Made in like an hour :P
 You can just jack cars whit it rn maybe later i will add something more cool...
 Supports only QBCore rn.
+And the ui is taken from codepen so dont worry if you see some like a shopping cart or a shoe in the css xD 
 
 The car will be locked when you complete the hack.
 You will need to lockpick it to use it..
